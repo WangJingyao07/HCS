@@ -1,4 +1,4 @@
-# VLM-HCS: Plug-in Hierarchical Coresets Selection for Scene Understanding
+# VLM-HCS: Plug-in Hierarchical Coresets Selection for Wide-Area Scene Understanding
 
 [![Awesome](https://img.shields.io/badge/Demo-green)](https://wangjingyao07.github.io/HCS.github.io/)
 ![Static Badge](https://img.shields.io/badge/ACMMM25-yellow)
