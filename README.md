@@ -16,7 +16,7 @@ conda activate vlm-hcs
 pip install -r requirements.txt
 ```
 
-## Quickstart (OpenCLIP zero-shot + HCS)
+## Quickstart (Example)
 ```bash
 bash scripts/demo_clip_hcs.sh
 ```
