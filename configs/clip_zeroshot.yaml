@@ -1,0 +1,3 @@
+model: ViT-B-32
+pretrained: laion2b_s34b_b79k
+demo_image: data/sample_images/example.jpg

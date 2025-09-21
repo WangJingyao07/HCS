@@ -1,0 +1,9 @@
+model_path: /data/users/wjy/models/Qwen/Qwen2.5-VL-7B-Instruct
+max_new_tokens: 64
+temperature: 0.6
+image: data/sample_images/example.jpg
+question: "Describe the scene."
+hcs:
+  use: true
+  grids: [[4,4],[8,8]]
+  topks: [6,8]
