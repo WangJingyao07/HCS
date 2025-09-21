@@ -9,6 +9,13 @@ This repository provides strong open-source VLM baselines (CLIP, LLaVA, Qwen2-VL
 a **Hierarchical Coresets Selection (HCS)** module that can be plugged into these baselines
 to select informative regions in a coarse→fine manner for scene understanding tasks.
 
+### 🚀 Live Demo Website
+
+🥇[ACMMM2025] Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection
+
+👉 **[Click here to view the project online](https://wangjingyao07.github.io/HCS.github.io/)**
+
+
 ## Setup
 ```bash
 conda create -n vlm-hcs python=3.10 -y
