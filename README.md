@@ -5,9 +5,8 @@
 ![Static Badge](https://img.shields.io/badge/to_be_continue-orange)
 ![Stars](https://img.shields.io/github/stars/WangJingyao07/HCS)
 
-This repository provides strong open-source VLM baselines (CLIP, LLaVA, Qwen2-VL) and
-a **Hierarchical Coresets Selection (HCS)** module that can be plugged into these baselines
-to select informative regions in a coarse→fine manner for scene understanding tasks.
+This repository provides a **Hierarchical Coresets Selection (HCS)** module that can be plugged into any open-source VLM baselines
+to select informative regions in a coarse-to-fine manner for scene understanding tasks.
 
 ### 🚀 Live Demo Website
 
